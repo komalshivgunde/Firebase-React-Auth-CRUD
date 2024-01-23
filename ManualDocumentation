@@ -1,0 +1,7 @@
+create folder open in vc code
+create react app => npx create-react-app my-react-app
+change directory => cd appname
+Install Firebase SDK: npm install firebase
+Install React Router: npm install react-router-dom
+Install Jest and React Testing Library: npm install --save-dev jest react-testing-library
+Start the Development Server => npm start
